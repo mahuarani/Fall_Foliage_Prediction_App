@@ -1,5 +1,5 @@
 streamlit==1.39.0
-folium==0.12.1
+folium>=0.13 
 pandas==1.5.3
 geopandas==0.12.2
 streamlit-folium==0.10.0
@@ -8,5 +8,5 @@ shapely==2.0.6
 requests==2.32.0
 branca==0.8.0
 certifi==2024.8.30
-black==23.3.0 
-packaging>=22.0 
+black==23.3.0
+packaging>=22.0
